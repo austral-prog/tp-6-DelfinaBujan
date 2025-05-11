@@ -1,7 +1,7 @@
 
 
 def remove_elements(list_to_remove_elements):
-    len_lista= len(list_to_remove_elements)
+	len_lista= len(list_to_remove_elements)
 	if len_lista>= 6 :
 		del list_to_remove_elements [5]
 		del list_to_remove_elements [4]
